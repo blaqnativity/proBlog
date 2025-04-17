@@ -9,7 +9,6 @@ import {
 import { db, auth } from "../../config/firebase";
 import { useAuthState } from "react-firebase-hooks/auth";
 import { useEffect, useState } from "react";
-// import { useParams } from "react-router-dom";
 
 const Post = ({ post }) => {
   const [likes, setLikes] = useState(null);

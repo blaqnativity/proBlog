@@ -24,7 +24,7 @@ const NotFound = () => {
             Go back home
           </Link>
           <span className=" mt-5 text-sm font-semibold text-zinc-400">
-            You will be redirected back to the main page after 10Secs
+            You will be redirected back to the main page after 5 secs...
           </span>
         </div>
       </div>
